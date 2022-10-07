@@ -93,3 +93,9 @@ body{
         margin-left: 17%;
     }
 }
+@media screen and (max-width:500px){
+    .container{
+        width:106%;
+        margin-left: 13%;
+    }
+}
